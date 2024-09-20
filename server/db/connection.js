@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const url = `mongodb+srv://atharvporwal1510:CAP48GdtILkNoaso@cluster0.rebmi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
+const url = `Connect Your MongoDB Database`;
 
 mongoose.connect(url, {
     useNewUrlParser: true, 
